@@ -11,3 +11,4 @@ git push origin --all
 git push origin --tags
 
 echo "Done."
+echo "New:"
